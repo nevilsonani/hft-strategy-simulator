@@ -1,8 +1,7 @@
 ===========
-HftBacktest
+HFT Strategy Simulator
 ===========
 
-|codeql| |python| |pypi| |downloads| |rustc| |crates| |license| |docs| |roadmap| |github|
 
 High-Frequency Trading Backtesting Tool
 =======================================
@@ -23,10 +22,6 @@ support the following features.
 * Backtesting of multi-asset and multi-exchange models
 * Deployment of a live trading bot for quick prototyping and testing using the same algorithm code: currently for Binance Futures and Bybit. (Rust-only)
 
-Documentation
-=============
-
-See `full document here <https://hftbacktest.readthedocs.io/>`_.
 
 Getting started
 ===============
@@ -46,12 +41,6 @@ Or you can clone the latest development version from the Git repository with:
 
  git clone https://github.com/nevilsonani/hft-strategy-simulator.git
 
-Data Source & Format
---------------------
-
-Please see `Data <https://hftbacktest.readthedocs.io/en/latest/data.html>`_ or `Data Preparation <https://hftbacktest.readthedocs.io/en/latest/tutorials/Data%20Preparation.html>`_.
-
-You can also find some data `here <https://reach.stratosphere.capital/data/usdm/>`_, hosted by the supporter.
 
 A Quick Example
 ---------------
